@@ -391,7 +391,7 @@ CONFIG_USB_USBNET=y
 
 ## LGE_CHANGE_S, [WiFi][jaewoo.hwang@lge.com], 2013-01-28, Wifi Bring Up */
 CONFIG_WIFI_CONTROL_FUNC=y
-CONFIG_BCMDHD=y
+# CONFIG_BCMDHD is not set 
 # CONFIG_BCM4330 is not set
 # CONFIG_BCM4334 is not set
 CONFIG_BCM4339=y
